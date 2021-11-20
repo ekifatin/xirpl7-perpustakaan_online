@@ -1,1 +1,1 @@
-Di dalam web ada beberapa pilihan buku, ketika buku diklik akan muncul beberapa opsi seperti keterangan buku, download buku (Ebook), dan pinjam buku secara offline. Ketika ingin meminjam buku secara offline maka peminjam harus meminjamnya melalui web dan menentukan waktu pengambilan dan pengembalian bukunya.
+Di dalam web ada beberapa pilihan buku, ketika buku diklik akan muncul beberapa opsi seperti keterangan buku, download buku (Ebook)
